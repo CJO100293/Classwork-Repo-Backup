@@ -1,0 +1,9 @@
+City,Lat,Lon,Airport Name,IATA Name,Airport Address,Distance,Website
+Sydney,-33.8698439,151.2082848,Sydney (Kingsford Smith) Airport,SYD,"General Holmes Drive, Kyeemagh NSW 2216, Australia",6742,https://www.sydneyairport.com.au/
+Melbourne,-37.8142176,144.9631608,Essendon Fields Airport,MEB,"72 Hargrave Avenue, Essendon Fields VIC 3041, Australia",9980,https://www.ef.com.au/
+Perth,-31.9558964,115.8605801,Perth Airport,PER,"Perth Airport WA 6105, Australia",8775,https://www.perthairport.com.au/
+Cairns,-16.9206657,145.7721854,Cairns Airport,CNS,"Sheridan Street, Cairns North QLD 4870, Australia",3461,
+Adelaide,-34.9281805,138.5999312,Adelaide Airport,ADL,"Tapleys Hill Road, Lockleys SA 5032, Australia",4898,https://www.adelaideairport.com.au/
+Gold Coast,-28.0023731,153.4145987,Gold Coast Airport,OOL,"Loongana Avenue, Bilinga QLD 4225, Australia",18807,https://www.goldcoastairport.com.au/
+Townsville,-19.2569391,146.8239537,Townsville Airport,TSV,"Old Common Road, Rowes Bay QLD 4810, Australia",4711,https://www.townsvilleairport.com.au/
+Williamtown,-32.815,151.8427778,Newcastle Airport,NTL,"55 Slades Road, Williamtown NSW 2318, Australia",620,https://www.newcastleairport.com.au
